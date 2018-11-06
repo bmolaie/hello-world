@@ -10,5 +10,5 @@ function helloBrowser(){
 }
 function helloStranger(){
 var name=prompt("Type Name Here");
-alert('Hello, ' + name + '!')
+alert('Hello, ' + name + '!');
 }
